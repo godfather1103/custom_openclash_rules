@@ -145,6 +145,12 @@ DOMAIN-SUFFIX,zoho.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,local
+# 韩国直播平台
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,pandalive.co.kr
+# Google DNS
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,127.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
@@ -156,9 +162,3 @@ IP-CIDR6,fe80::/10
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
 GEOIP,CN
-# 韩国直播平台
-DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,pandalive.co.kr
-# Google DNS
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
