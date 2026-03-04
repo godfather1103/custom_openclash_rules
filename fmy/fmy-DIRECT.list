@@ -159,3 +159,6 @@ GEOIP,CN
 # 韩国直播平台
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,pandalive.co.kr
+# Google DNS
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
