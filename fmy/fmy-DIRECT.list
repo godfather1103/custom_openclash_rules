@@ -156,3 +156,6 @@ IP-CIDR6,fe80::/10
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
 GEOIP,CN
+# 韩国直播平台
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,pandalive.co.kr
