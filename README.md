@@ -21,6 +21,7 @@ custom_openclash_rules/
 │   ├── fmy.txt            # 完整规则定义
 │   ├── fmy-DIRECT.list    # 直连规则列表
 │   ├── fmy-Proxy.list     # 代理规则列表
+│   ├── fmy-Pron.list      # 私密网站规则列表
 │   └── fmy-REJECT.list    # 拦截规则列表
 └── README.md
 ```
@@ -29,8 +30,11 @@ custom_openclash_rules/
 
 | 代理组 | 说明 |
 |--------|------|
-| ♻️ 自动选择 | 自动测速选择最优节点 |
-| ♻️ Ai平台 | 专门用于 AI 服务的代理组 |
+| ✉️ Telegram | 专门用于 Telegram 服务的代理组 |
+| 🎬 流媒体 | 专门用于 国外流媒体 服务的代理组 |
+| 📹 油管视频 | 专门用于 YouTube 服务的代理组 |
+| 💬 Ai平台 | 专门用于 AI 服务的代理组 |
+| ㊙️ 私密网站 | 成人内容和私密网站的代理组 |
 | 肥猫云 | 自定义代理组 |
 | 🎯 全球直连 | 直连中国本地服务 |
 | 🛑 全球拦截 | 拦截广告和不必要流量 |
@@ -78,6 +82,12 @@ custom_openclash_rules/
 - AI 相关服务（Google、OpenAI 等）
 - 社交媒体（Facebook、Twitter、YouTube 等）
 - 开发者服务和工具
+
+### 私密网站规则 (fmy-Pron.list)
+
+包含以下类型的域名：
+- 成人内容网站
+- 私密和成人相关服务
 
 ### 拦截规则 (fmy-REJECT.list)
 
