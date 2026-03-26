@@ -1,6 +1,5 @@
 ### Linux template
 *~
-
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
 
@@ -188,4 +187,4 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
+!fmy/**
