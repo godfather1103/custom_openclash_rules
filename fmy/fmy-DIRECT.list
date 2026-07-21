@@ -148,6 +148,11 @@ DOMAIN-SUFFIX,local
 # 韩国直播平台
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,pandalive.co.kr
+# 放行
+DOMAIN-SUFFIX,godfather1103.top
+DOMAIN-SUFFIX,godfather1103.cc.cd
+DOMAIN-SUFFIX,godfa.cc.cd
+DOMAIN-SUFFIX,gd.cc.cd
 # Google DNS
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
@@ -161,6 +166,3 @@ IP-CIDR,224.0.0.0/4
 IP-CIDR6,fe80::/10
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
-DOMAIN-SUFFIX,godfather1103.top
-DOMAIN-SUFFIX,godfather1103.cc.cd
-DOMAIN-SUFFIX,godfa.cc.cd
