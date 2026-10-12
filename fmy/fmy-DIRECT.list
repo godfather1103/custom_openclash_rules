@@ -153,6 +153,9 @@ DOMAIN-SUFFIX,godfather1103.top
 DOMAIN-SUFFIX,godfather1103.cc.cd
 DOMAIN-SUFFIX,godfa.cc.cd
 DOMAIN-SUFFIX,gd.cc.cd
+DOMAIN-SUFFIX,bhb.ccwu.cc
+DOMAIN-SUFFIX,ghg.ccwu.cc
+DOMAIN-SUFFIX,godfa.de5.net
 # Google DNS
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
